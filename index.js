@@ -15,16 +15,37 @@
  * =============================================================================
  */
 const CLASSES_NAMES = {
-  0: 'apple',
-  1: 'avocado',
-  2: 'banana',
-  3: 'carrot',
-  4: 'lettuce',
-  5: 'onion',
-  6: 'pepper',
-  7: 'potato',
-  8: 'tomato',
- }
+  0: 'alarm clock',
+  1: 'apple',
+  2: 'basket',
+  3: 'bee',
+  4: 'bowl',
+  5: 'brain',
+  6: 'bus',
+  7: 'cactus',
+  8: 'calculator',
+  9: 'cloud',
+  10: 'crown',
+  11: 'diamond',
+  12: 'dog',
+  13: 'eye',
+  14: 'fish',
+  15: 'grapes',
+  16: 'hot air balloon',
+  17: 'knife',
+  18: 'monkey',
+  19: 'palm tree',
+  20: 'pineapple',
+  21: 'pretzel',
+  22: 'santa claus',
+  23: 'shark',
+  24: 't-shirt',
+  25: 'telephone',
+  26: 'tooth',
+  27: 'umbrella',
+  28: 'vase',
+}
+
 
 const MOBILENET_MODEL_PATH =
     // tslint:disable-next-line:max-line-length
